@@ -5,10 +5,6 @@ const db = require('../utils/database.js');
 module.exports = {
     async execute(interaction, client) {
         if (interaction.isButton() && interaction.customId.startsWith('publish_scam_')) {
-            if (!db.hasPerm(interaction.member, 'scamApprovers')) {
-                await interaction.reply({ content: 'Security Check Failed: You lack permission.', flags: MessageFlags.Ephemeral });
-                return true;
-            }
             const embed = EmbedBuilder.from(interaction.message.embeds[0]).setTitle('🚨 CONFIRMED SCAMMER 🚨').setColor('#8B0000'); 
             const publicChannel = client.channels.cache.get(config.channels.publicScam);
             if (publicChannel) {

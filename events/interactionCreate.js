@@ -1,15 +1,13 @@
 const { MessageFlags } = require('discord.js');
 
 const handlers = [
-    require('../handlers/adminPanel'),
+    require('../handlers/adminManager'),
     require('../handlers/staffSetup'),
     require('../handlers/scamBoard'),
     require('../handlers/proofApprovals'),
-    require('../handlers/ticketCreate'),
-    require('../handlers/tradeRoom'),
     require('../handlers/giveawayLogic'),
     require('../handlers/statsInteractions'),
-    require('../handlers/adminNickPanel') // 🚨 ADDED THIS! Now the button works!
+    require('../handlers/ticketManager')
 ];
 
 module.exports = {

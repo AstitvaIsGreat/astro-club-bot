@@ -113,11 +113,6 @@ module.exports = {
                 
                 await interaction.deferUpdate().catch(() => {});
 
-                if (!db.hasPerm(interaction.member, 'scamApprovers') && interaction.user.id !== config.ownerId) {
-                    const err = new EmbedBuilder().setColor('#00FFFF').setDescription('Security Clearance Denied.');
-                    return interaction.followUp({ embeds: [err], flags: MessageFlags.Ephemeral }).catch(() => {});
-                }
-
                 try {
                     const rejectedEmbed = EmbedBuilder.from(interaction.message.embeds[0])
                         .setColor('#ED4245')
