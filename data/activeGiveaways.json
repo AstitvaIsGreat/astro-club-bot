@@ -1,0 +1,179 @@
+{
+    "23crlnvi": {
+        "messageId": "1535598117850841152",
+        "channelId": "1511305916832809121",
+        "prize": "10m",
+        "perWinnerPrize": "10m",
+        "claimTimeMs": 30000,
+        "winnersCount": 1,
+        "hostId": "1499057668227076258",
+        "sponsorId": null,
+        "entries": [
+            "1499057668227076258"
+        ],
+        "endTimestamp": 1786185545,
+        "claimExpiresStamp": 1786186375,
+        "isClaimed": true,
+        "hasEnded": true,
+        "winners": [
+            "1499057668227076258"
+        ],
+        "winMessageId": "1535601595725643786",
+        "winMessageUrl": "https://discord.com/channels/1501615751575109845/1511305916832809121/1535601595725643786"
+    },
+    "zsyupzp7": {
+        "messageId": "1535603909081571399",
+        "channelId": "1511305916832809121",
+        "prize": "10m",
+        "perWinnerPrize": "10m",
+        "claimTimeMs": 30000,
+        "winnersCount": 1,
+        "hostId": "1499057668227076258",
+        "sponsorId": null,
+        "entries": [
+            "1499057668227076258"
+        ],
+        "endTimestamp": 1786186926,
+        "claimExpiresStamp": 1786186978,
+        "isClaimed": false,
+        "hasEnded": true,
+        "winners": [
+            "1499057668227076258"
+        ],
+        "winMessageId": "1535604126061437111",
+        "winMessageUrl": "https://discord.com/channels/1501615751575109845/1511305916832809121/1535604126061437111"
+    },
+    "9sfa2g91": {
+        "messageId": "1537325518133661790",
+        "channelId": "1511305916832809121",
+        "prize": "10m",
+        "perWinnerPrize": "10m",
+        "claimTimeMs": 10000,
+        "winnersCount": 1,
+        "hostId": "1499057668227076258",
+        "sponsorId": null,
+        "entries": [
+            "1499057668227076258"
+        ],
+        "endTimestamp": 1786597369,
+        "claimExpiresStamp": 1786597381,
+        "isClaimed": false,
+        "hasEnded": true,
+        "winners": [
+            "1499057668227076258"
+        ],
+        "winMessageId": "1537325568314572830",
+        "winMessageUrl": "https://discord.com/channels/1501615751575109845/1511305916832809121/1537325568314572830"
+    },
+    "qrd0q309": {
+        "messageId": "1537327879619088417",
+        "channelId": "1511305916832809121",
+        "prize": "10m",
+        "perWinnerPrize": "10m",
+        "claimTimeMs": 10000,
+        "winnersCount": 1,
+        "hostId": "1499057668227076258",
+        "sponsorId": null,
+        "entries": [],
+        "endTimestamp": 1786597982,
+        "claimExpiresStamp": 1786598006,
+        "isClaimed": false,
+        "hasEnded": true,
+        "winners": [],
+        "winMessageId": null,
+        "winMessageUrl": null
+    },
+    "dg8qg2gw": {
+        "messageId": "1543502323312230424",
+        "channelId": "1501615752007127113",
+        "prize": "20m",
+        "perWinnerPrize": "20m",
+        "claimTimeMs": 20000,
+        "winnersCount": 1,
+        "hostId": "1499057668227076258",
+        "sponsorId": null,
+        "entries": [
+            "1499057668227076258"
+        ],
+        "endTimestamp": 1788070039,
+        "claimExpiresStamp": 1788070061,
+        "isClaimed": true,
+        "hasEnded": true,
+        "winners": [
+            "1499057668227076258"
+        ],
+        "winMessageId": "1543502374260314244",
+        "winMessageUrl": "https://discord.com/channels/1501615751575109845/1501615752007127113/1543502374260314244"
+    },
+    "a9sebw0r": {
+        "messageId": "1543538464568516699",
+        "channelId": "1543496463542394907",
+        "prize": "20m - 10m each",
+        "perWinnerPrize": "10m",
+        "claimTimeMs": 300000,
+        "winnersCount": 2,
+        "hostId": "1499057668227076258",
+        "sponsorId": null,
+        "entries": [],
+        "endTimestamp": 1788078947,
+        "claimExpiresStamp": 1788079248,
+        "isClaimed": false,
+        "hasEnded": true,
+        "winners": [],
+        "winMessageId": null,
+        "winMessageUrl": null
+    },
+    "goea6ywb": {
+        "messageId": "1543540765563682918",
+        "channelId": "1543496463542394907",
+        "prize": "10M",
+        "perWinnerPrize": "10m",
+        "claimTimeMs": 3600000,
+        "winnersCount": 1,
+        "hostId": "861611568492052490",
+        "sponsorId": null,
+        "entries": [
+            "861611568492052490",
+            "1499057668227076258"
+        ],
+        "endTimestamp": 1788082795,
+        "claimExpiresStamp": 1788087344,
+        "isClaimed": false,
+        "hasEnded": true,
+        "winners": [
+            "1499057668227076258"
+        ],
+        "winMessageId": "1543559848895975516",
+        "winMessageUrl": "https://discord.com/channels/1543496460459577396/1543496463542394907/1543559848895975516"
+    },
+    "zjl2o2je": {
+        "messageId": "1543562951477166173",
+        "channelId": "1543496463542394907",
+        "prize": "10m",
+        "perWinnerPrize": "10m",
+        "claimTimeMs": 10000,
+        "winnersCount": 1,
+        "hostId": "1499057668227076258",
+        "sponsorId": null,
+        "entries": [
+            "1499057668227076258"
+        ],
+        "endTimestamp": 1788084494,
+        "endTimeout": {
+            "_idleTimeout": 10000,
+            "_idlePrev": null,
+            "_idleNext": null,
+            "_idleStart": 100047,
+            "_repeat": null,
+            "_destroyed": true
+        },
+        "hasEnded": true,
+        "isClaimed": true,
+        "winMessageId": "1543563006917742693",
+        "claimExpiresStamp": 1788084506,
+        "winMessageUrl": "https://discord.com/channels/1543496460459577396/1543496463542394907/1543563006917742693",
+        "winners": [
+            "1499057668227076258"
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "prices": {
+        "skeletonBuy": "7.65m",
+        "skeletonSell": "7.4m",
+        "creeperBuy": "15.5M",
+        "creeperBulk": "7M",
+        "creeperSell": "13M",
+        "golemBuy": "16M",
+        "golemSell": "14M",
+        "piglinSell": "35M",
+        "piglinBuy": "45M",
+        "cowSell": "15M",
+        "cowBuy": "20M"
+    },
+    "spawnerLimitArea": "2 by 2",
+    "spawnerLimitQty": "8",
+    "perms": {
+        "scamApprovers": [
+            "1543496460656443400"
+        ],
+        "gwHosts": [
+            "1543496460656443392"
+        ],
+        "spawnerClaim": [
+            "1543496460568367173"
+        ],
+        "spawnerClose": [
+            "1543496460568367173"
+        ],
+        "gwClose": [
+            "1543496460656443392"
+        ],
+        "gwForceClose": [
+            "1543496460656443400"
+        ],
+        "bypassCooldown": [
+            "1543496460656443400",
+            "1543496460656443401"
+        ],
+        "forceSpawnerClose": [
+            "1543496460656443401"
+        ],
+        "priceChange": [
+            "1543496460656443400"
+        ],
+        "gwMinChange": [
+            "1543496460656443400"
+        ],
+        "pointManagers": [],
+        "ticketManage": [
+            "1543496460656443392"
+        ],
+        "nickSyncManage": [
+            "1543496460656443400"
+        ],
+        "stickyManage": [
+            "1543496460656443400"
+        ],
+        "cmdSay": [
+            "1543496460656443400"
+        ],
+        "cmdClear": [
+            "1543496460656443400"
+        ],
+        "timeout": [
+            "1543496460656443392"
+        ],
+        "ban": [
+            "1543496460656443400"
+        ],
+        "unban": [
+            "1543496460656443400"
+        ],
+        "softban": [
+            "1543496460656443400",
+            "1543496460656443399"
+        ],
+        "promote": [
+            "1543496460656443400"
+        ],
+        "demote": [
+            "1543496460656443400"
+        ],
+        "supportClaim": [
+            "1543496460656443392"
+        ],
+        "reportClaim": [
+            "1543496460656443392"
+        ]
+    },
+    "gwMinNum": 10000000,
+    "gwMinStr": "10m",
+    "totalGiveawaysEnded": 3,
+    "logCacheTimeMs": 3600000,
+    "logCacheTimeStr": "1 Hour",
+    "ignoredLogChannels": [
+        "1543496463957499952",
+        "1543496463957499951"
+    ],
+    "lastUpdatedTimestamp": 1788184625,
+    "lastWeeklyReset": 1788071897771,
+    "lastMonthlyReset": 1784359029637,
+    "lastYearlyReset": 1784359029637,
+    "nickSync": {
+        "roles": {
+            "1543496460656443400": {
+                "prefix": "co owner",
+                "style": "smallcaps"
+            },
+            "1543496460656443399": {
+                "prefix": "admin",
+                "style": "smallcaps"
+            },
+            "1543496460656443398": {
+                "prefix": "sr mod",
+                "style": "smallcaps"
+            },
+            "1543496460656443397": {
+                "prefix": "mod",
+                "style": "smallcaps"
+            },
+            "1543496460656443396": {
+                "prefix": "trial mod",
+                "style": "smallcaps"
+            },
+            "1543496460656443395": {
+                "prefix": "sr helper",
+                "style": "smallcaps"
+            },
+            "1543496460656443394": {
+                "prefix": "helper",
+                "style": "smallcaps"
+            },
+            "1543496460656443393": {
+                "prefix": "trial helper",
+                "style": "smallcaps"
+            },
+            "1543496460656443401": {
+                "prefix": "owner",
+                "style": "smallcaps"
+            }
+        },
+        "separator": "|"
+    },
+    "spawnerChannelId": "1543496463542394903",
+    "spawnerMessageId": "1543982463678808157",
+    "vouchCooldownMs": 43200000,
+    "vouchCooldownStr": "12h",
+    "pointsResetMs": 604800000,
+    "pointsResetStr": "7d",
+    "lastPointsReset": 1783848275553,
+    "buyPrice": "5m",
+    "sellPrice": "10m",
+    "activeLeaderboards": [
+        "customer_bought",
+        "customer_sold",
+        "sponsors"
+    ],
+    "lbDisplayLimit": 5
+}

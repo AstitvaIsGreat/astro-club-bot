@@ -1,0 +1,110 @@
+{
+    "1499057668227076258": {
+        "main": "Unknown",
+        "alts": [],
+        "giveawaysHosted": 2,
+        "tradeLogs": [],
+        "spawnersSold": {
+            "skeleton": 0,
+            "creeper": 0,
+            "golem": 0
+        },
+        "spawnersBought": {
+            "skeleton": 0,
+            "creeper": 0,
+            "golem": 0
+        },
+        "moneyGenerated": 0,
+        "moneySpent": 0,
+        "weekly": {
+            "points": 8,
+            "closes": 6,
+            "claims": 1,
+            "proofs": 1,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        },
+        "monthly": {
+            "points": 8,
+            "closes": 6,
+            "claims": 1,
+            "proofs": 1,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        },
+        "yearly": {
+            "points": 8,
+            "closes": 6,
+            "claims": 1,
+            "proofs": 1,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        },
+        "allTime": {
+            "points": 8,
+            "closes": 6,
+            "claims": 1,
+            "proofs": 1,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        }
+    },
+    "861611568492052490": {
+        "main": "Unknown",
+        "alts": [],
+        "giveawaysHosted": 1,
+        "tradeLogs": [],
+        "spawnersSold": {
+            "skeleton": 0,
+            "creeper": 0,
+            "golem": 0
+        },
+        "spawnersBought": {
+            "skeleton": 0,
+            "creeper": 0,
+            "golem": 0
+        },
+        "moneyGenerated": 0,
+        "moneySpent": 0,
+        "weekly": {
+            "points": 0,
+            "closes": 0,
+            "claims": 0,
+            "proofs": 0,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        },
+        "monthly": {
+            "points": 0,
+            "closes": 0,
+            "claims": 0,
+            "proofs": 0,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        },
+        "yearly": {
+            "points": 0,
+            "closes": 0,
+            "claims": 0,
+            "proofs": 0,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        },
+        "allTime": {
+            "points": 0,
+            "closes": 0,
+            "claims": 0,
+            "proofs": 0,
+            "messages": 0,
+            "responseTotal": 0,
+            "responseCount": 0
+        }
+    }
+}
